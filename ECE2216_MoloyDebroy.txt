@@ -1,0 +1,14 @@
+Name of the student : Moloy Debroy 
+Class Roll of the student : 16 
+Stream of the student : ECE 
+Your Student ID is : ECE2216
+
+Marks obtained in Math is : 20 
+Marks obtained in Python is : 18 
+Marks obtained in Physics is : 32 
+Marks obtained in Chemistry is : 24 
+Marks obtained in Biology is : null 
+Marks obtained in English is : 28 
+
+You have got 122 in total with 24%
+Extremely poor performance... You have Failed the Exam and got F.
