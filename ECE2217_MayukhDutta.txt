@@ -1,0 +1,14 @@
+Name of the student : Mayukh Dutta 
+Class Roll of the student : 17 
+Stream of the student : ECE 
+Your Student ID is : ECE2217
+
+Marks obtained in Math is : 89 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 94 
+Marks obtained in Chemistry is : 85 
+Marks obtained in Biology is : null 
+Marks obtained in English is : 99 
+
+You have got 457 in total with 91%
+Outstanding Performance... You have passed the exam with grade A.
