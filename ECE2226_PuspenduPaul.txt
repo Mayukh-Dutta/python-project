@@ -1,0 +1,14 @@
+Name of the student : Puspendu Paul 
+Class Roll of the student : 26 
+Stream of the student : ECE 
+Your Student ID is : ECE2226
+
+Marks obtained in Math is : 56 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 67 
+Marks obtained in Chemistry is : 47 
+Marks obtained in Biology is : null 
+Marks obtained in English is : 39 
+
+You have got 309 in total with 61%
+Your performance is average... Work hard... You have passed the exam with grade D.
